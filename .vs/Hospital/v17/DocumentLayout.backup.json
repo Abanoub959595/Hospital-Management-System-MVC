@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\implementations\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Program.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Program.cs",
+              "RelativeToolTip": "Hospital.Web\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:25:24.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Hospital.Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:22:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Implementations\\UnitOfWork.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Implementations\\UnitOfWork.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Implementations\\UnitOfWork.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA7wDoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:59:18.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:54:19.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:51:35.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

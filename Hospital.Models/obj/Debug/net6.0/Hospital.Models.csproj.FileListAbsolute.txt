@@ -1,0 +1,14 @@
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\bin\Debug\net6.0\Hospital.Models.deps.json
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\bin\Debug\net6.0\Hospital.Models.runtimeconfig.json
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\bin\Debug\net6.0\Hospital.Models.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\bin\Debug\net6.0\Hospital.Models.pdb
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\Hospital.Models.csproj.AssemblyReference.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\Hospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\Hospital.Models.AssemblyInfoInputs.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\Hospital.Models.AssemblyInfo.cs
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\Hospital.Models.csproj.CoreCompileInputs.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\Hospital.Models.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\refint\Hospital.Models.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\Hospital.Models.pdb
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\Hospital.Models.genruntimeconfig.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Models\obj\Debug\net6.0\ref\Hospital.Models.dll

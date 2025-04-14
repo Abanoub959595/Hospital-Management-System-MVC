@@ -1,0 +1,17 @@
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\bin\Debug\net6.0\Hospital.Repositories.deps.json
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\bin\Debug\net6.0\Hospital.Repositories.runtimeconfig.json
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\bin\Debug\net6.0\Hospital.Repositories.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\bin\Debug\net6.0\Hospital.Repositories.pdb
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\bin\Debug\net6.0\Hospital.Models.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\bin\Debug\net6.0\Hospital.Models.pdb
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.csproj.AssemblyReference.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.AssemblyInfoInputs.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.AssemblyInfo.cs
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\refint\Hospital.Repositories.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.pdb
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.genruntimeconfig.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\ref\Hospital.Repositories.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.043409E1.Up2Date

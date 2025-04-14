@@ -1,0 +1,15 @@
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.deps.json
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.pdb
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.pdb
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.AssemblyInfoInputs.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.AssemblyInfo.cs
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.CoreCompileInputs.cache
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\refint\Hospital.ViewModels.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.pdb
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\ref\Hospital.ViewModels.dll
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.ViewModels\obj\Debug\net6.0\Hospital.62AB27C3.Up2Date
