@@ -11,12 +11,12 @@ namespace Hospitla.Utilities
 {
     public class DbInitializer : IDbInitializer
     {
-        private UserManager<IdentityUser> _userManager;
+        private UserManager<ApplicationUser> _userManager;
         private RoleManager<IdentityRole> _roleManager;
         private ApplicationDbContext _context;
 
         public DbInitializer(
-            UserManager<IdentityUser> userManager,
+            UserManager<ApplicationUser> userManager,
             RoleManager<IdentityRole> roleManager,
             ApplicationDbContext context
             )
@@ -46,13 +46,13 @@ namespace Hospitla.Utilities
                 _roleManager.CreateAsync(new IdentityRole(WebsiteRoles.Website_Patient)).GetAwaiter().GetResult();
                 _roleManager.CreateAsync(new IdentityRole(WebsiteRoles.Website_Doctor)).GetAwaiter().GetResult();
 
-                _userManager.CreateAsync(new IdentityUser
+                _userManager.CreateAsync(new ApplicationUser
                 {
                     UserName = "Abanoub",
                     Email = "abanoub@gmail.com"
                 }, "Abanoub95").GetAwaiter().GetResult();
 
-                var appUser = _context.Users.FirstOrDefault(user => user.Email == "abanoub@gmail.com");
+                ApplicationUser appUser = _context.Users.FirstOrDefault(user => user.Email == "abanoub@gmail.com");
 
                 if (appUser != null)
                 {

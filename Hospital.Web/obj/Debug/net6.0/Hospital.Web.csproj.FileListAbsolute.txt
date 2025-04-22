@@ -300,3 +300,4 @@ E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Web\obj
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Web\obj\Debug\net6.0\staticwebassets\msbuild.Hospital.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Web\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Web\obj\Debug\net6.0\Hospital.D7BD65CF.Up2Date
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Web\obj\Debug\net6.0\Hospital.Web.sourcelink.json

@@ -19,3 +19,4 @@ E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Service
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Services\obj\Debug\net6.0\Hospitla.Services.pdb
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Services\obj\Debug\net6.0\ref\Hospitla.Services.dll
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Services\obj\Debug\net6.0\Hospitla.E4F1DFA0.Up2Date
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Services\obj\Debug\net6.0\Hospitla.Services.sourcelink.json

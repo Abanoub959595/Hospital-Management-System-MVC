@@ -15,3 +15,4 @@ E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Reposit
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.genruntimeconfig.cache
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\ref\Hospital.Repositories.dll
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.043409E1.Up2Date
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.sourcelink.json

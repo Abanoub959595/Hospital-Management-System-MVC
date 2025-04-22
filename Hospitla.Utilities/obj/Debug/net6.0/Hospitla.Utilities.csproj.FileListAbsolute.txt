@@ -17,3 +17,4 @@ E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Utiliti
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Utilities\obj\Debug\net6.0\Hospitla.Utilities.pdb
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Utilities\obj\Debug\net6.0\ref\Hospitla.Utilities.dll
 E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Utilities\obj\Debug\net6.0\Hospitla.2D67C30B.Up2Date
+E:\05 MVC\Practise\ProjectOne\HospitalManagementSystem\Hospital\Hospitla.Utilities\obj\Debug\net6.0\Hospitla.Utilities.sourcelink.json

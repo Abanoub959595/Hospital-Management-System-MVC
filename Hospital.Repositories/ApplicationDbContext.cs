@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Hospital.Models
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {

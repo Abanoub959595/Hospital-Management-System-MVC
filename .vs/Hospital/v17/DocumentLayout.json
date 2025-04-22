@@ -1,12 +1,602 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07B4D88E-43CD-4B7B-BF45-A95B6414F03B}|Hospitla.Utilities\\Hospitla.Utilities.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospitla.utilities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07B4D88E-43CD-4B7B-BF45-A95B6414F03B}|Hospitla.Utilities\\Hospitla.Utilities.csproj|solutionrelative:hospitla.utilities\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\twofactorauthentication.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\setpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\resetauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\generaterecoverycodes.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C36F8F-F064-46AD-8445-25B3B7E92A5F}|Hospital.Models\\Hospital.Models.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C36F8F-F064-46AD-8445-25B3B7E92A5F}|Hospital.Models\\Hospital.Models.csproj|solutionrelative:hospital.models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\migrations\\20240515124536_addpictureurlinapplicationusertable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\migrations\\20240515124536_addpictureurlinapplicationusertable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\migrations\\20240429234752_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\migrations\\20240429234752_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\migrations\\20240510131434_modelstodatabase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\migrations\\20240510131434_modelstodatabase.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.repositories\\migrations\\20240514135233_adddoctortodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500D538D-F3D9-4FBA-84A7-21E3101DEE6F}|Hospital.Repositories\\Hospital.Repositories.csproj|solutionrelative:hospital.repositories\\migrations\\20240514135233_adddoctortodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\externallogins.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\enableauthenticator.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\downloadpersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\disable2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\deletepersonaldata.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|e:\\05 mvc\\practise\\projectone\\hospitalmanagementsystem\\hospital\\hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F5C9520-046D-4B9D-8D70-AC5ED34E1C1C}|Hospital.Web\\Hospital.Web.csproj|solutionrelative:hospital.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Hospital.Repositories\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:33:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T20:30:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TwoFactorAuthentication.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\TwoFactorAuthentication.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:30:27.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetPassword.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\SetPassword.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:30:16.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospitla.Utilities\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Hospitla.Utilities\\DbInitializer.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospitla.Utilities\\DbInitializer.cs",
+              "RelativeToolTip": "Hospitla.Utilities\\DbInitializer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAnwDgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:24:02.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:30:07.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetAuthenticator.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ResetAuthenticator.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:29:57.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:29:52.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:29:44.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonalData.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:29:35.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:29:28.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWithRecoveryCode.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:29:15.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWith2fa.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:28:57.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:28:49.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAADwvz8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:28:30.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenerateRecoveryCodes.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\GenerateRecoveryCodes.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:28:21.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:28:10.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240510131434_ModelsToDatabase.Designer.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\20240510131434_ModelsToDatabase.Designer.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Migrations\\20240510131434_ModelsToDatabase.Designer.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\20240510131434_ModelsToDatabase.Designer.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Migrations\\20240510131434_ModelsToDatabase.Designer.cs",
+              "ViewState": "AgIAAH0DAAAAAAAAAAAIwIkDAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:20:22.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240429234752_Initial.Designer.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\20240429234752_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Migrations\\20240429234752_Initial.Designer.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\20240429234752_Initial.Designer.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Migrations\\20240429234752_Initial.Designer.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAIwBkBAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:20:07.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240515124536_AddPictureUrlInApplicationUserTable.Designer.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\20240515124536_AddPictureUrlInApplicationUserTable.Designer.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Migrations\\20240515124536_AddPictureUrlInApplicationUserTable.Designer.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\20240515124536_AddPictureUrlInApplicationUserTable.Designer.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Migrations\\20240515124536_AddPictureUrlInApplicationUserTable.Designer.cs",
+              "ViewState": "AgIAAKcDAAAAAAAAAAAIwLEDAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:21:36.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAKUDAAAAAAAAAAAIwK8DAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:21:47.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Hospital.Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Hospital.Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:22:02.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240514135233_AddDoctorToDb.Designer.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\20240514135233_AddDoctorToDb.Designer.cs",
+              "RelativeDocumentMoniker": "Hospital.Repositories\\Migrations\\20240514135233_AddDoctorToDb.Designer.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Repositories\\Migrations\\20240514135233_AddDoctorToDb.Designer.cs",
+              "RelativeToolTip": "Hospital.Repositories\\Migrations\\20240514135233_AddDoctorToDb.Designer.cs",
+              "ViewState": "AgIAACoCAAAAAAAAAAAIwDQCAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:20:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExternalLogins.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ExternalLogins.cshtml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:26:55.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAiwMgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:25:53.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnableAuthenticator.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\EnableAuthenticator.cshtml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAcwJEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:25:36.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAIwEwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:25:18.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DownloadPersonalData.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\DownloadPersonalData.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:24:57.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Disable2fa.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\Disable2fa.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:24:47.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeletePersonalData.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\DeletePersonalData.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:24:25.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ConfirmEmailChange.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:23:38.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:23:17.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "Hospital.Web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:22:14.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Hospital.Web\\Program.cs",
+              "ToolTip": "E:\\05 MVC\\Practise\\ProjectOne\\HospitalManagementSystem\\Hospital\\Hospital.Web\\Program.cs",
+              "RelativeToolTip": "Hospital.Web\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:15:39.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

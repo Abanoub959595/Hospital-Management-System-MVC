@@ -1,0 +1,65 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio
+.vscode/
+.vs/
+
+# ASP.NET temporary files
+**/wwwroot/lib/
+**/node_modules/
+**/dist/
+**/bundle/
+
+# DotNet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# VS Code
+.history/
+*.code-workspace
+
+# Others
+*.log
+*.db
+*.sqlite
+*.pdb
+*.mdb
+
+# Entity Framework
+Migrations/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.assets.json
+*.csproj.user
+
+# Mac/Linux
+.DS_Store
+*.swp
+*.swo
+
+# Windows
+Thumbs.db
+desktop.ini
